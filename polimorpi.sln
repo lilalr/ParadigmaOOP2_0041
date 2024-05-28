@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\polimorpi.vcxproj", "{D817039C-0571-49BA-B77E-2853602FBF52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D817039C-0571-49BA-B77E-2853602FBF52}.Release|x64.Build.0 = Release|x64
 		{D817039C-0571-49BA-B77E-2853602FBF52}.Release|x86.ActiveCfg = Release|Win32
 		{D817039C-0571-49BA-B77E-2853602FBF52}.Release|x86.Build.0 = Release|Win32
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Debug|x64.ActiveCfg = Debug|x64
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Debug|x64.Build.0 = Debug|x64
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Debug|x86.Build.0 = Debug|Win32
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Release|x64.ActiveCfg = Release|x64
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Release|x64.Build.0 = Release|x64
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Release|x86.ActiveCfg = Release|Win32
+		{5CB0C9A4-F57A-4AD0-9B86-6E27E95E3F38}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
